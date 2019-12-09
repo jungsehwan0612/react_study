@@ -14,4 +14,5 @@ YouTube와 nomadcoders 에서 강의를 확인할 수 있습니다.
 3. [Components](3.Component.md)
 4. [State](4.State.md)
 5. [Movie](5.Movie.md)
+5. [Deploying App via Github Pages](6.Deploying_App_via_Github_Pages.md)
 
